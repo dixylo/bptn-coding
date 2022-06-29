@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was built for the coding test required by BPTN
+
+## Instructions
+
+Once started, the website fetches and displays a list of movie posters, each of which you can like or unlike.
+On the Likes page, you can see the list of movie posters you liked.
 
 ## Available Scripts
 

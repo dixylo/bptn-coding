@@ -1,0 +1,29 @@
+nav {
+  background-color: #282c34;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  color: white;
+}
+
+nav li {
+  padding: 16px;
+}
+
+nav li:hover {
+  background-color: #444b59;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.active {
+  text-decoration: underline;
+}
